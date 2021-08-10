@@ -3,9 +3,9 @@ role: Research Assistant Professor
 bio: ""
 interests:
   - Model-based/data-driven optimization
-  - multi/many-objective optimization
-  - large-scale optimization
-  - combination of deep learning and evolutionary algorithm
+  - Multi/many-objective optimization
+  - Large-scale optimization
+  - Combination of deep learning and evolutionary algorithm
 social:
   - icon: envelope
     icon_pack: fas
