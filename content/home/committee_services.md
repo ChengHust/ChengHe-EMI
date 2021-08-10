@@ -24,23 +24,23 @@ date_format: '2006-01-02'
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - organization: 'IEEE'
-  title: 'Founding Chair'
+  title: 'Chair, Committee of Members Activities'
   description: "IEEE CIS Shenzhen Chapter"
   date_start: "2021-07-01"
   date_end: ""
   url: https://r10.ieee.org/shenzhen-cis/
 - organization: 'IEEE'
   title: 'Chair'
-  description: "IEEE CIS Task Force on Data-Driven Evolutionary Optimization of Expensive Problems"
+  description: "IEEE CIS Task Force on Intelligence Systems for Health"
   date_start: "2020-01-01"
   date_end: ""
-  url: https://www.emigroup.tech/index.php/news/ieee-cis-task-force-on-data-driven-evolutionary-optimization-of-expensive-problems/
-- organization: 'IEEE'
-  title: 'Committee Member'
-  description: "IEEE CIS Evolutionary Computation Technical Committee"
+  url: https://sites.google.com/view/ieee-cis-tf-ish/home
+- organization: 'Springer'
+  title: 'Leading Guest Editor'
+  description: "Complex and Intelligent Systems, Special Issues “Emerging Topics in Evolutionary Multiobjective Optimization” (2021)"
   date_start: "2020-01-01"
   date_end: ""
-  url: https://cis.ieee.org/technical-committees/evolutionary-computation-technical-committee/30-technical-committees/133-evolutionary-computation-members
+  url: https://www.springer.com/journal/40747/updates/18069470
 
 design:
   columns: '2' 

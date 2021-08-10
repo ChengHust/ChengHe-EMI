@@ -23,36 +23,12 @@ date_format: '2006-01-02'
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- organization: 'IEEE Transactions on Cognitive and Developmental Intelligence'
-  title: 'Associate Editor'
-  date_start: "2021-08-01"
-  date_end: ""
-  url: "https://cis.ieee.org/publications/t-cognitive-and-developmental-systems/tcds-editors-and-associate-editors"
-  description: ""
-- organization: 'IEEE Transactions on Artificial Intelligence'
-  title: 'Associate Editor'
-  date_start: "2020-04-01"
-  date_end: ""
-  url: "https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence/editors-and-associate-editors"
-  description: ""
-- organization: 'IEEE Access'
-  title: 'Associate Editor'
-  date_start: "2018-01-01"
-  date_end: ""
-  description: ""
-  url: "https://ieeeaccess.ieee.org/editorial-leadership/associate-editors/#C"
-- organization: 'Applied Soft Computing'
-  title: 'Editorial Board Member'
-  date_start: "2018-01-01"
-  date_end: ""
-  description: ""
-  url: "https://www.journals.elsevier.com/applied-soft-computing/editorial-board"
-- organization: 'Complex & Intelligent Systems'
-  title: 'Editorial Board Member'
-  date_start: "2017-01-01"
-  date_end: ""
-  description: ""
-  url: "https://www.springer.com/journal/40747/editors"
+# - organization: 'Complex & Intelligent Systems'
+#   title: 'Editorial Board Member'
+#   date_start: "2017-01-01"
+#   date_end: ""
+#   description: ""
+#   url: "https://www.springer.com/journal/40747/editors"
 
 design:
   columns: '2' 

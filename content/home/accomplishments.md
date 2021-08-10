@@ -24,29 +24,16 @@ date_format: '2006-01-02'
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_end: ""
-  date_start: "2018-07-01"
-  description: "IEEE Transactions on Evolutionary Computation Outstanding Paper Award"
-  organization: 'IEEE'
-  title: 'Outstanding Paper Award'
-  url: "https://cis.ieee.org/getting-involved/awards/past-recipients#TECOutstandingPaperAward"
+  date_start: "2020-11-01"
+  description: "SUSTech the 6th Presidential Outstanding Postdoctoral Award"
+  organization: 'SUSTech'
+  title: 'Presidential Outstanding Postdoctoral Award'
 - date_end: ""
-  date_start: "2019-07-01"
-  description: "IEEE Computational Intelligence Society (CIS) Outstanding PhD Dissertation Award"
-  organization: 'IEEE'
-  title: 'Outstanding PhD Dissertation Award'
-  url: "https://cis.ieee.org/getting-involved/awards/past-recipients#OutstandingPhDDissertationAward"
-- date_end: ""
-  date_start: "2020-07-01"
-  description: "IEEE Computational Intelligence Magazine Outstanding Paper Award"
-  organization: 'IEEE'
-  title: 'Outstanding Paper Award'
-  url: "https://cis.ieee.org/getting-involved/awards/past-recipients#CIMOutstandingPaperAward"
-- date_end: ""
-  date_start: "2021-07-01"
-  description: "IEEE Transactions on Evolutionary Computation Outstanding Paper Award"
-  organization: 'IEEE'
-  title: 'Outstanding Paper Award'
-  url: "https://cis.ieee.org/getting-involved/awards/past-recipients#TECOutstandingPaperAward"
+  date_start: "2019-11-25"
+  description: "The 14th International Conference on Bio-inspired Computing: Theories and Applications (BIC-TA 2019) Best Paper Award"
+  organization: 'BIC-TA'
+  title: 'Best Paper Award'
+  url: "http://2019.bicta.org/"
 
 design:
   columns: '2' 
