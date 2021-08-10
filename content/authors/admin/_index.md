@@ -1,39 +1,37 @@
 ---
-role: Associate Professor (PI)
+role: Research Assistant Professor
 bio: ""
 interests:
-  - Computational Intelligence
-  - Evolutionary Computation
-  - Deep Learning
+  - Model-based/data-driven optimization
+  - multi/many-objective optimization
+  - large-scale optimization
+  - combination of deep learning and evolutionary algorithm
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:ranchengcn@gmail.com
+    link: mailto:chenghehust@gmail.com
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=bjeIdlcAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=I28xMFQAAAAJ&hl=zh-CN
   - icon: file
     icon_pack: fas
-    link: https://publons.com/researcher/1307307/ran-cheng/
+    link: https://publons.com/researcher/2948517/cheng-he/
 organizations:
   - name: Evolving Machine Intelligence Group
     url: https://www.emigroup.tech/
 education:
   courses:
-    - course: PhD, Computer Science
-      institution: University of Surrey, UK
-      year: 2013 - 2016
-    - course: Postgraduate, Computer Science and Technology
-      institution: Zhejiang University, China
-      year: 2010 - 2012
-    - course: BEng, Computer Science and Technology
-      institution: Northeastern University, China
-      year: 2016 - 2010
+    - course: PhD, Control Theory and Engineering
+      institution: Huazhong University of Science and Technology, China
+      year: 2012 - 2018
+    - course: BEng, Automation
+      institution: Wuhan University of Science and Technology, China
+      year: 2008 - 2012
 superuser: true
 highlight_name: false
-title: Ran Cheng
+title: Cheng He
 email: ""
 ---
-Dr. Ran Cheng is currently a tenured Associate Professor with the Department of Computer Science and Engineering, Southern University of Science and Technology, China. He received the PhD degree in computer science from the University of Surrey, UK, in 2016. His main research interest is Computational/Artificial Intelligence based learning and optimization. He is the Founding Chair of IEEE CIS Shenzhen Chapter. He serves as an Associated Editor/Editorial Board Member for IEEE Transactions on Artificial Intelligence, IEEE Transactions on Cognitive and Developmental Systems, IEEE Access, Applied Soft Computing, and Complex & Intelligent Systems. He is the recipient of the IEEE Transactions on Evolutionary Computation Outstanding Paper Awards (2018, 2021), the IEEE CIS Outstanding PhD Dissertation Award (2019), the IEEE Computational Intelligence Magazine Outstanding Paper Award (2020). He is a Senior Member of [IEEE](https://www.ieee.org/).
+Dr. is currently a Research Assistant Professor with the Department of Computer Science and Engineering, Southern University of Science and Technology, Shenzhen, China. His current research interests include model-based evolutionary algorithms, multiobjective optimization, large-scale optimization, deep learning, and their applications. He is a recipient of the SUSTech Presidential Outstanding Postdoctoral Award from Southern University of Science and Technology, and the leading Guest Editor for “Special Issue: Emerging Topics in Evolutionary Multiobjective Optimization” of the Complex and Intelligent Systems.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ran-cheng-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ChengHeCV.pdf" "newtab" >}}resumé{{< /staticref >}}.
