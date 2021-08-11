@@ -27,19 +27,19 @@ item:
   title: 'Chair, Committee of Members Activities'
   description: "IEEE CIS Shenzhen Chapter"
   date_start: "2021-07-01"
-  date_end: ""
+  date_end: ''
   url: https://r10.ieee.org/shenzhen-cis/
 - organization: 'IEEE'
   title: 'Chair'
   description: "IEEE CIS Task Force on Intelligence Systems for Health"
   date_start: "2020-01-01"
-  date_end: ""
+  date_end: ''
   url: https://sites.google.com/view/ieee-cis-tf-ish/home
 - organization: 'Springer'
   title: 'Leading Guest Editor'
   description: "Complex and Intelligent Systems, Special Issues “Emerging Topics in Evolutionary Multiobjective Optimization” (2021)"
   date_start: "2020-01-01"
-  date_end: ""
+  date_end: ''
   url: https://www.springer.com/journal/40747/updates/18069470
 
 design:

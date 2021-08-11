@@ -22,7 +22,7 @@ date_format: '2006-01-02'
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
+# item:
 # - organization: 'Complex & Intelligent Systems'
 #   title: 'Editorial Board Member'
 #   date_start: "2017-01-01"
