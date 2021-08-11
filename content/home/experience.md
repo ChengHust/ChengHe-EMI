@@ -26,15 +26,15 @@ experience:
     company: 'Southern University of Science and Technology'
     company_url: ''
     location: 'China'
-    date_start: '2020-8-01'
+    date_start: '2020-08-01'
     date_end: ''
-  - title: 'Research Fellow, Southern University of Science and Technology, China.'
+  - title: 'Research Fellow, Southern University of Science and Technology, China'
     company: 'Southern University of Science and Technology'
     company_url: ''
     location: 'China'
     date_start: '2018-03-15'
-    date_end: '2020-7-30'
-  - title: 'Visiting Student, University of Surrey, UK.'
+    date_end: '2020-07-30'
+  - title: 'Visiting Scholar, University of Surrey, UK'
     company: 'University of Surrey'
     company_url: ''
     location: 'UK'
@@ -44,3 +44,5 @@ experience:
 design:
   columns: '2'
 ---
+
+
