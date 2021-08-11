@@ -42,7 +42,7 @@ experience:
     date_end: '2017-03-31'
 
 design:
-  columns: '2'
+  columns: '2' 
 ---
 
 
