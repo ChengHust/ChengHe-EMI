@@ -33,12 +33,12 @@ item:
   title: 'Co-Chair'
   description: "IEEE Symposium on Model-Based Evolutionary Algorithms"
   date_start: "2018-12-06"
-  date_end: ''
+  date_end: ""
 - organization: 'IEEE CEC'
   title: 'Co-Chair'
   description: "Online Data-Driven Multi-Objective Optimization Competition"
-  date_start: "2018-6-12"
-  date_end: ''
+  date_start: "2018-06-12"
+  date_end: ""
 design:
   columns: '2' 
 ---

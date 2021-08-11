@@ -24,19 +24,19 @@ date_format: '2006-01-02'
 experience:
   - title: 'Research Assistant Professor, Southern University of Science and Technology, China'
     company: 'Southern University of Science and Technology'
-    company_url: ''
+    company_url: ""
     location: 'China'
     date_start: '2020-08-01'
-    date_end: ''
+    date_end: ""
   - title: 'Research Fellow, Southern University of Science and Technology, China'
     company: 'Southern University of Science and Technology'
-    company_url: ''
+    company_url: ""
     location: 'China'
     date_start: '2018-03-15'
     date_end: '2020-07-30'
   - title: 'Visiting Scholar, University of Surrey, UK'
     company: 'University of Surrey'
-    company_url: ''
+    company_url: ""
     location: 'UK'
     date_start: '2016-09-01'
     date_end: '2017-03-31'
