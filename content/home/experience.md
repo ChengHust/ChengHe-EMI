@@ -22,12 +22,18 @@ date_format: '2006-01-02'
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 'Associate Professor, Huazhong University of Science and Technology, China'
+    company: 'Huazhong University of Science and Technology'
+    company_url: "http://seee.hust.edu.cn/?_noCache=0.191999"
+    location: 'China'
+    date_start: '2022-03-16'
+    date_end: ""
   - title: 'Research Assistant Professor, Southern University of Science and Technology, China'
     company: 'Southern University of Science and Technology'
     company_url: ""
     location: 'China'
     date_start: '2020-08-01'
-    date_end: ""
+    date_end: "2022-03-15"
   - title: 'Research Fellow, Southern University of Science and Technology, China'
     company: 'Southern University of Science and Technology'
     company_url: ""
